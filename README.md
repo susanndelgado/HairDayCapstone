@@ -5,6 +5,7 @@
 # HairDayCapstone
 
 The project was developed as a front-end capstone for a Certified Meta course I took semantic HTML and custom CSS to refresh my knowledge.
+
 A responsive one-page website concept for **Hair Day**, a boutique salon in Madison, Wisconsin specializing in custom color, modern cuts, styling, makeup, and nail services.
 
 
