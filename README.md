@@ -4,7 +4,7 @@
 
 # HairDayCapstone
 
-The project was developed as a front-end capstone for a Certified Meta course I took semantic HTML and custom CSS to refresh my knowledge.
+The project was developed as a front-end capstone for a <a href="https://coursera.org/share/cbd596fabb4d48b6d0610160b56826f5" alt="meta cert" target="_blank">Certified Meta</a> course I took semantic HTML and custom CSS to refresh my knowledge.
 
 A responsive one-page website concept for **Hair Day**, a boutique salon in Madison, Wisconsin specializing in custom color, modern cuts, styling, makeup, and nail services.
 
@@ -115,6 +115,5 @@ The current implementation is a front-end concept. Booking and tutorial links ar
 
 
 <p align="center">
-  <img src="img/hero.jpg" alt="Hair Day salon website hero image" width="85%">
+ <a href="https://coursera.org/share/cbd596fabb4d48b6d0610160b56826f5" alt="meta cert" target="_blank"><img src="img/CERTIFICATE_LANDING_PAGE~T8JHROO8SAUV.jpg" alt="Meta Certificate" width="85%"></a>
 </p>
-https://coursera.org/share/cbd596fabb4d48b6d0610160b56826f5
