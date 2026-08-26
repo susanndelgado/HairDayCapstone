@@ -109,9 +109,9 @@ http://localhost:8000
 
 ## Project Status
 
-Portfolio / capstone project.
+Meta capstone project.
 
-The current implementation is a front-end concept. Booking and tutorial links are presentation elements and would require integration with real services or application logic for production use.
+The current implementation is a front-end concept for a <a href="https://coursera.org/share/cbd596fabb4d48b6d0610160b56826f5" alt="meta cert" target="_blank">Certified Meta</a> course I took semantic HTML and custom CSS to refresh my knowledge. Booking and links are presentation elements and would require integration with real services or application logic for production use.
 
 
 <p align="center">
