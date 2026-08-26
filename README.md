@@ -112,3 +112,9 @@ http://localhost:8000
 Portfolio / capstone project.
 
 The current implementation is a front-end concept. Booking and tutorial links are presentation elements and would require integration with real services or application logic for production use.
+
+
+<p align="center">
+  <img src="img/hero.jpg" alt="Hair Day salon website hero image" width="85%">
+</p>
+https://coursera.org/share/cbd596fabb4d48b6d0610160b56826f5
